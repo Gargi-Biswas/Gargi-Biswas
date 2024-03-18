@@ -5,19 +5,22 @@ That's why I like to collaborate with the things that make a significant differe
 
 💪 This is where I write, code and solve problems:
 
+💪 This is where I write, code and solve problems:
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Gargi/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
+<a href="https://github.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gargi" height="30" width="40" /></a>
 &nbsp;
-<a href="https://leetcode.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Gargi/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
+<a href="https://leetcode.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Gargi" height="30" width="40" /></a>
 &nbsp;
-<a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Gargi/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Gargi/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Gargi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Gargi" height="30" width="40" /></a>
 &nbsp;
-<a href="https://medium.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Gargi/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Gargi" height="30" width="40" /></a>
+<a href="https://medium.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Gargi" height="30" width="40" /></a>
 &nbsp;
 <a href="https://dev.to/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Gargi" height="30" width="40" /></a>
 &nbsp;
+
 
 
 ## 🛠️ My Favourite tools
