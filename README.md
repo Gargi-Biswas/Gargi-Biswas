@@ -2,6 +2,24 @@ I am a Business Analyst and writer. I love programming, reading, writing and spe
 
 As an Analyst, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 That's why I like to collaborate with the things that make a significant difference.
+
+💪 This is where I write, code and solve problems:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Gargi/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
+&nbsp;
+<a href="https://leetcode.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Gargi/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
+&nbsp;
+<a href="https://stackoverflow.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Gargi/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.hackerrank.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Gargi/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Gargi" height="30" width="40" /></a>
+&nbsp;
+<a href="https://medium.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Gargi/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Gargi" height="30" width="40" /></a>
+&nbsp;
+<a href="https://dev.to/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Gargi" height="30" width="40" /></a>
+&nbsp;
+
+
 ## 🛠️ My Favourite tools
 
 ### 👨‍💻 Programming languages
