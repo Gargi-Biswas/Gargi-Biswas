@@ -102,7 +102,7 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
   <br/>
 
   <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Gargi-Biswas&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
   </p>
 
 </details>
