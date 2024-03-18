@@ -1,6 +1,6 @@
 I am a Business Analyst and writer. I love programming, reading, writing and speaking.
 
-As an analyst, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+As an Analyst, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 ## 🛠️ My Favourite tools
 
 ### 👨‍💻 Programming languages
